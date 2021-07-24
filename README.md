@@ -1,11 +1,11 @@
 # New Chat App using MODULE FEDERATION 
 ---
 ## Client
-    - Made using React and Webpack5
+    _Made using React and Webpack5_
 ---
 ## Server
-    - GraphQL Subscriptions
+    _GraphQL Subscriptions_
 ---
 ## Home-page
-    - Works as module federation unit 
+    _Works as module federation unit_ 
 ---
